@@ -1,0 +1,61 @@
+.icon{
+    height: 600px;
+    background-color: 	rgb(187 255 255);
+}
+.kinhlup, .chuong{
+    width: 40px;
+    height: 40px;
+}
+.user{
+    width: 70px;
+    border-radius: 50px;
+    border: solid blue 3px;
+}
+.ten{
+    font-weight: bold;
+    font-size: 20px;
+}
+.sp{
+    font-weight: bold;
+    font-size: 40px;
+}
+.khung-con{
+    background-color: lightgray;
+    padding: 20px;
+}
+.nav-column{
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.nav-column li{
+    margin-bottom: 38px;
+}
+.nav-column li:first-child{
+    margin-top: 25px;
+}
+.nav-column li a{
+    color: white;
+    text-decoration: none;
+}
+.bg-nen-9{
+    background-color: rgb(0 197 205);
+}
+.logo{
+    background-color: 	rgb(187 255 255);
+}
+.photo-lap{
+    width: 70px;
+}
+.bg-white{
+    background-color: white;
+}
+.the-a{
+    color: white;
+    text-decoration: none;
+}
+.the-a:hover
+{
+    color: white;
+    text-decoration: none;
+}

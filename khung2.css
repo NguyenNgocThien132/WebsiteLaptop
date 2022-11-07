@@ -1,0 +1,181 @@
+.icon{
+    height: 600px;
+    background-color: 	rgb(187 255 255);
+}
+.kinhlup, .chuong{
+    width: 40px;
+    height: 40px;
+}
+.user{
+    width: 70px;
+    border-radius: 50px;
+    border: solid blue 3px;
+}
+.ten{
+    font-weight: bold;
+    font-size: 20px;
+}
+.sp{
+    font-weight: bold;
+    font-size: 40px;
+}
+.khung-con{
+    background-color: lightgray;
+    padding: 20px;
+}
+.nav-column{
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.nav-column li{
+    margin-bottom: 38px;
+}
+.nav-column li:first-child{
+    margin-top: 25px;
+}
+.nav-column li a{
+    color: white;
+    text-decoration: none;
+}
+.bg-nen-9{
+    background-color: rgb(0 197 205);
+}
+.logo{
+    background-color: 	rgb(187 255 255);
+}
+.photo-lap{
+    width: 70px;
+}
+.bg-white{
+    background-color: white;
+}
+.the-a{
+    color: white;
+    text-decoration: none;
+}
+.the-a:hover
+{
+    color: white;
+    text-decoration: none;
+}
+/* PHANHOANG */
+.Dong1{
+    background-color: lightgray;
+}
+.text-d1{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top:10px;
+}
+/* dong2 */
+.khungdong2{
+    margin-top:15px;
+}
+.khungtimkiem{
+    border: solid 5px lightskyblue;
+    height: 55px;
+}
+.nhaptimkiem{
+    width: 830px;
+    border: none;
+    height: 44px;
+}
+.khung-table{
+    text-align: center;
+    margin-top:10px;
+}
+.khung-table td{
+    width: 500px;
+    font-size: 14px;
+    padding:5px;
+}
+.soluong{
+    width: 100px;
+}
+.dongdau{
+    font-weight: bold;
+    font-size: 25px;
+}
+.tongcong{
+    border: none;
+    margin-top:20px;
+}
+.tongso{
+    font-size: 20px;
+    margin-left: 50px;
+}
+.c1d3{
+    margin-top:25px;
+    clear:both;
+}
+.trangthai table td{
+    padding:20px;
+    width: 125px;
+    height: 60px;
+    font-size: 16px;
+    text-align: center;
+}
+.moi{
+    background-color: gray;
+}
+.dangxuly{
+    background-color: darkorange;
+}
+.hoanthanh{
+    background-color: limegreen;
+}
+.huybo{
+    background-color: red;
+}
+.trangthai a{
+    color:white;
+}
+/* c2d2 */
+.d2c2{
+    margin-left: 10px;
+}
+.cham{
+    color:red;
+}
+.d2c2 table{
+    width: 30%;
+}
+.loai{
+    padding:5px;
+    width: 100%;
+    font-size: 20px;
+}
+.textleft{
+    font-size: 20px;
+    font-weight: bold;
+}
+.text-ghichu{
+    height: 100px;
+}
+.ttk{
+    margin-top:10px;
+}
+/* d3 */
+.khungdong3{
+    margin-top:20px;
+    background-color: lightgray;
+    height: 100px;
+}
+.khungd3{
+    margin-left: 1000px;
+    width: 100%;
+    margin-top:25px;
+}
+.dong{
+    background-color: gainsboro;
+    width: 150px;
+}
+.luuvadong{
+    background-color: green;
+    width: 150px;
+}
+.xemchitiet{
+    background-color: lightgreen;
+    width: 150px;
+}
